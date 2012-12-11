@@ -1,0 +1,4 @@
+class DisenoController < ApplicationController
+  def index
+  end
+end
